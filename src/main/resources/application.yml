@@ -1,0 +1,10 @@
+spring:
+    datasource:
+        password: r00t
+        url: ''
+        username: root
+    jpa:
+        hibernate:
+            ddl-auto: update
+        open-in-view: true
+        show-sql: true
