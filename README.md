@@ -11,3 +11,4 @@
 # javarush_auth_bank_account
 # test
 # test
+# test
