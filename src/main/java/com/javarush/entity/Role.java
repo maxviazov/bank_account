@@ -3,5 +3,5 @@ package com.javarush.entity;
 import javax.persistence.Entity;
 
 @Entity
-public class User {
+public class Role {
 }
