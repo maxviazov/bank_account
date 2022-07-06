@@ -9,3 +9,4 @@
 # javarush_auth_bank_account
 # javarush_auth_bank_account
 # javarush_auth_bank_account
+# test
